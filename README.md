@@ -84,8 +84,8 @@ Atuar como Desenvolvedor Júnior, contribuindo com:
 
 ## 📫 Contato
 
-📩 Email: seuemail@email.com  
-🔗 LinkedIn: (coloque aqui seu link)  
+📩 Email: gsmelo2804@gmail.com
+🔗 LinkedIn: linkedin.com/in/gustavo-souto-melo
 
 ---
 
