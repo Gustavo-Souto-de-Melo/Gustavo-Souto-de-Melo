@@ -1,61 +1,92 @@
-# 👋 Olá! Eu sou o **Gustavo Souto de Melo**
+# 👋 Olá, eu sou Gustavo Souto de Melo
 
-Olá! Sou um **Desenvolvedor de Software em início de carreira** com foco em **JavaScript, TypeScript e desenvolvimento web full-stack**. 🚀  
-Estou sempre aprendendo, construindo projetos reais e aprimorando minha capacidade de resolver problemas com tecnologia.
+💻 Desenvolvedor Full Stack em formação  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+🚀 Focado em React, Next.js, Node.js e TypeScript  
+🌱 Sempre evoluindo para atuar no mercado de tecnologia
 
 ---
 
-## 🧠 Sobre mim
+## 🚀 Sobre mim
 
-✨ Atualmente estudando **Análise e Desenvolvimento de Sistemas** na Fiap e focado em oportunidades como **desenvolvedor front-end, back-end ou full-stack**.  
-📍 Baseado em São Paulo, Brasil.
+Sou desenvolvedor com foco em construção de aplicações web modernas, escaláveis e bem estruturadas.
 
-Sou curioso por natureza e busco sempre aprender novas tecnologias, boas práticas de desenvolvimento e trabalhar em projetos que façam impacto.
+Tenho experiência prática com:
+
+✔️ Desenvolvimento Front-End com React e Next.js  
+✔️ Criação de APIs REST com Node.js  
+✔️ Integração com bancos de dados SQL  
+✔️ Projetos utilizando TypeScript  
+✔️ Versionamento com Git e GitHub  
+
+Busco minha primeira oportunidade como **Desenvolvedor Front-End, Back-End ou Full Stack Júnior**, contribuindo com código limpo, organização e aprendizado constante.
 
 ---
 
 ## 🛠️ Tech Stack
 
-Minhas principais habilidades técnicas incluem:
+### 💻 Front-End
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-- **Linguagens:** JavaScript, TypeScript, Java  
-- **Web:** HTML5, CSS3, React, Next.js  
-- **Back-end:** Node.js, APIs REST, Express  
-- **Banco de dados:** SQL (MySQL/PostgreSQL)  
-- **Ferramentas:** Git, GitHub, VS Code
+### 🖥️ Back-End
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-💡 Sempre aberto a aprender frameworks e ferramentas novas!
+### 🗄️ Banco de Dados
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
-
-## 🚀 Projetos em destaque
-
-Aqui estão alguns projetos que você pode explorar — todos com documentação clara:
-
-📌 **challenge_front** – Projeto front-end com foco em UI/UX (TypeScript)  
-📌 **next-sprint** – Projeto com Next.js e funcionalidades modernas (TypeScript)  
-📌 **PowerCycle** – Aplicação com lógica de negócios em TypeScript  
-📌 **rest-api-class-1** – API REST com Java  
-
-(Links diretos aparecem nos repositórios fixados acima 👆)
-
----
-
-## 📈 Em desenvolvimento
-
-Estou constantemente:
-
-- Aprimorando meus projetos existentes
-- Construindo novos projetos com foco no mercado real
-- Estudando cloud, testes automatizados e boas práticas de engenharia de software
+### ⚙️ Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 📫 Vamos conversar?
+## 📊 Estatísticas do GitHub
 
-Estou aberto a oportunidades e colaborações!  
-📧 E-mail: gsmelo2804@gmail.com
-🔗 LinkedIn: https://linkedin.com/in/gustavo-souto-de-melo  
+![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavo-Souto-de-Melo&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Souto-de-Melo&layout=compact&theme=tokyonight)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=Gustavo-Souto-de-Melo&theme=tokyonight)
 
+---
+
+## 🧠 Projetos em Destaque
+
+🔹 Aplicações Front-End com React e TypeScript  
+🔹 Projetos com Next.js  
+🔹 APIs REST com Node.js  
+🔹 Projetos acadêmicos com foco em energia renovável  
+
+Estou constantemente evoluindo meus repositórios para refletir boas práticas de mercado.
+
+---
+
+## 🎯 Objetivo Profissional
+
+Atuar como Desenvolvedor Júnior, contribuindo com:
+
+- Código limpo e organizado
+- Boas práticas de arquitetura
+- Aprendizado contínuo
+- Trabalho em equipe
+- Resolução de problemas reais
+
+---
+
+## 📫 Contato
+
+📩 Email: seuemail@email.com  
+🔗 LinkedIn: (coloque aqui seu link)  
+
+---
+
+⭐ Se você é recrutador ou desenvolvedor e chegou até aqui, será um prazer conversar!
